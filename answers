@@ -1,0 +1,23 @@
+1st ans: Difference between compile time and run time
+In compile time the source code is converted into binary code.
+In run time the execution of the byte code(program) which is in binary code.
+
+
+2nd ans: types of variables
+Local variable-it is a variable that is declared inside a variable and is only accessible inside the method that declared it
+int distance=50;
+class variable-class variable defines a property of a class.
+ex-public static String[] items={}
+
+
+4th ans: Method- it is a collection of statements which is used to perform logic .
+public static void main(String[] args)
+Parameter-it acts as a variable inside the method and is written inside paranthesis.
+ex-public static void main(String[] param)
+argument-it is a value passed to a method when the method is called.
+return type-the return type defines and constrains the data type of the value returned from a subroutine or method.
+public static void main(String[] args)=void is a return type
+
+
+
+
